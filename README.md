@@ -9,7 +9,7 @@
 
 My first JavaScript project, created for [Start2Impact](http://start2impact.it/) BASIC JS section.
 
-You can visit the site [here](zen-franklin-4a4c5e.netlify.app).
+You can visit the site [here](https://zen-franklin-4a4c5e.netlify.app).
 
 ***
 
